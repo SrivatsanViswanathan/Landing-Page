@@ -260,14 +260,21 @@ h2 {
 
   .container-one .box-one,
   .container-one .box-two {
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 350px;
+    width: 75%;
+    justify-content: center;
   }
+  
   .container-one img {
     margin-top: 5%;
     width: 350px;
     height: 180px;
+  }
+
+  .cards {
+    margin: 2% 0% 2% 0%;
   }
 
   .container-three .quote {
@@ -285,7 +292,8 @@ h2 {
   }
 
   .container-four .box-one {
-    width: 350px;
+    padding: 1% 10% 1% 10%;
+    width: 75%;
     margin-left: auto;
     margin-right: auto;
     height: auto;
