@@ -1,1 +1,3 @@
-Landing Page Project on Odin. Made with HTML and CSS. Flex-box was used.
+#Landing Page
+
+Link: https://srivatsanviswanathan.github.io/Landing-Page/
